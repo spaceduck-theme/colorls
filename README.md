@@ -8,7 +8,10 @@
 
 ## Install
 
-### Install using Git
+First, get the source code via one of the download methods, then proceed to activating.
+
+### Getting Theme
+#### Download using Git
 
 If you are a git user, you can install the theme and keep up to date by cloning the repo:
 
@@ -16,9 +19,9 @@ If you are a git user, you can install the theme and keep up to date by cloning 
 git clone git@github.com:bigpick/spaceduck-colorls.git
 ```
 
-### Install manually
+#### Download manually
 
-Download using the [GitHub .zip download](https://github.com/bigpick/spaceduck-colorls/archive/master.zip) option and unzip them.
+Download using the [GitHub .zip download](https://github.com/bigpick/spaceduck-colorls/archive/main.zip) option and unzip them.
 
 ### Activating theme
 
@@ -30,7 +33,7 @@ Download using the [GitHub .zip download](https://github.com/bigpick/spaceduck-c
     ```bash
     cp ~/.config/colorls/dark_colors.yaml ~/.config/colorls/dark_colors.yaml.backup
     ```
-3. Copy the [`dark_colors.yaml`](https://github.com/bipick/spaceduck-colorls/blob/master/dark_colors.yaml) file to the dark color scheme location for colorls:
+3. Copy the [`dark_colors.yaml`](https://github.com/bipick/spaceduck-colorls/blob/main/dark_colors.yaml) file to the dark color scheme location for colorls:
 
     ```bash
     cp dark_colors.yaml ~/.config/colorls/dark_colors.yaml
@@ -50,12 +53,16 @@ Download using the [GitHub .zip download](https://github.com/bigpick/spaceduck-c
 Some examples of a select set of `colorls` options (see the colorls repo for full optional flags).
 
 ### File Sizes
+
+> Notice the sizing coloration based on small/medium/large size in the 5th column.
+
 ![file-size-screenshot](./sample/spaceduck_sizes.png)
 
 ### Tree
 ![tree-screenshot](./sample/spaceduck_tree.png)
 
 ### Git Status (addition, modified, deleted, unchanged, untracked)
+> Shown: unchanged (green), modified (yellow), untracked (orange); Not-shown: addition (cyan), deletion (red)
 ![git-demo-screenshot](./sample/spaceduck_git.png)
 
 ## License
