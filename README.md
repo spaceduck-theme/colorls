@@ -1,10 +1,10 @@
 # Spaceduck for [colorls](https://github.com/athityakumar/colorls)
 
-> A dark theme for [colorls](https://github.com/athityakumar/colorls).
+> A [spaceduck](https://github.com/pineapplegiant/spaceduck) theme for [colorls](https://github.com/athityakumar/colorls).
 
 ![Screenshot](./screenshot.png)
 
-(note: `ls` has been aliased to `colorls --sd --dark` above)
+> (note: `ls` has been aliased to `colorls --sd --dark` above)
 
 ## Install
 
