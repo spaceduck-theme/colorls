@@ -63,6 +63,7 @@ Some examples of a select set of `colorls` options (see the colorls repo for ful
 
 ### Git Status (addition, modified, deleted, unchanged, untracked)
 > Shown: unchanged (green), modified (yellow), untracked (orange); Not-shown: addition (cyan), deletion (red)
+
 ![git-demo-screenshot](./sample/spaceduck_git.png)
 
 ## License
