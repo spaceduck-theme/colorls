@@ -1,0 +1,47 @@
+# Spaceduck themed dark color settings for colorls
+#
+# Main Colors
+unrecognized_file: '#e33400' # Red
+recognized_file:   '#ecf0c1' # Foreground
+executable_file:   '#5ccc96' # Green
+dir:               '#00a3cc' # Cyan
+
+# Link
+dead_link: '#e33400'         # Red
+link:      '#ecf0c1'         # Foreground
+
+# Special Files
+socket:    '#f2ce00'         # Yellow
+blockdev:  '#f2ce00'         # Yellow
+chardev:   '#f2ce00'         # Yellow
+
+# Access Modes
+write:     '#b3a1e6'         # Purple
+read:      '#7a5ccc'         # Purple2
+exec:      '#5ccc96'         # Green
+no_access: '#30365F'         # Dark Purple -- prob should be red but like this look better
+
+# Age
+hour_old:    '#b3a1e6'       # Purple
+day_old:     '#686f9a'       # Dark Purple2
+no_modifier: '#30365F'       # Dark Purple
+
+# File Size
+file_large:  '#e33400'       # Red
+file_medium: '#e39400'       # Orange
+file_small:  '#7a5ccc'       # Purple2
+
+# Random
+report: '#5ccc96'            # Green
+user:   '#7a5ccc'            # purple2
+tree:   '#30365F'            # Dark Purple
+empty:  '#818596'            # Grey
+error:  '#e33400'            # Red
+normal: '#ecf0c1'            # Foreground
+
+# Git
+addition:     '#00a3cc'      # Cyan
+modification: '#f2ce00'      # Yellow
+deletion:     '#e33400'      # Red
+untracked:    '#e39400'      # Orange
+unchanged:    '#5ccc96'      # Green
