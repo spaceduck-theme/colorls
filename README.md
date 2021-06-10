@@ -66,6 +66,14 @@ Some examples of a select set of `colorls` options (see the colorls repo for ful
 
 ![git-demo-screenshot](./sample/spaceduck_git.png)
 
+## Team
+
+This theme is maintained by the following person(s) in addition to being helped by a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
+
+| [![bigpick](https://avatars1.githubusercontent.com/u/9803299?v=4&s=70)](https://github.com/bigpick) |
+| --- |
+| [bigpick](https://github.com/bigpick) |
+
 ## License
 
 [MIT License](./LICENSE)
